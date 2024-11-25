@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186956310353",
+    "project_id": "alertastempranas-28e6b",
+    "storage_bucket": "alertastempranas-28e6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186956310353:android:3d2e697ea0c260812f9570",
+        "android_client_info": {
+          "package_name": "com.emirsanchez.alerta_push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcjuMelYGo3rMW3IYza6zpk-7fnrIisT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

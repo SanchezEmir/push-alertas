@@ -1,0 +1,42 @@
+name: alerta_push_app
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  equatable: ^2.0.5
+  firebase_core: ^3.7.0
+  firebase_messaging: ^15.1.4
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  go_router: ^14.4.1
+  badges: ^2.0.3
+  google_fonts: ^5.0.0
+  cupertino_icons: ^1.0.2
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    # - assets/transabilidad-9e4a2-609e29b43e49.json
+    - assets/fonts/
+    - assets/icons/
+    - assets/images/
+  fonts:
+    - family: PB
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
+    - family: PM
+      fonts:
+        - asset: assets/fonts/Poppins-Medium.ttf
